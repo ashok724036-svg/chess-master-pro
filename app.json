@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "ChessMaster Pro",
+    "slug": "chess-master-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1a1a2e"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#1a1a2e"
+      },
+      "package": "com.chessmaster.pro",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.chessmaster.pro"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
